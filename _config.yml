@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nipun Ramani / Worshipper of GPU"
+title                    : "Nipun Ramani"
 title_separator          : "-"
 name                     : &name "Nipun Ramani"
 description              : &description "Stand on the shoulders on giants."
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Nipun Ramani"
   avatar           : "profile.png"
-  bio              : "Hey there, I am Nipun and I like to make stuff."
+  bio              : "Stand on the shoulders of giant."
   location         : "Mumbai, India"
   employer         :
   pubmed           : 
