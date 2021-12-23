@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* 2017 – 2021 Bachelor‘s in Information Technology – Manipal Institute of Technology, Manipal (CGPA 8.04/10)
+* 2017 – 2021 Bachelor‘s in Information Technology – Manipal Institute of Technology, Manipal (CGPA 8.11/10)
 * 2015 – 2017 Higher Secondary Certificate – Bharatiya Vidya Mandir, Mumbai (Percentage 78%)
 * 2009 – 2015 Indian Certificate of Secondary Education – Ryan International School, Chembur, Mumbai (Percentage 88%)  
 
